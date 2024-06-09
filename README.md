@@ -12,3 +12,7 @@ LibGDX: https://libgdx.com/
 Bullet Physics wiki: https://libgdx.com/wiki/extensions/physics/bullet/bullet-physics
 
 May turn into a proper game with levels, rewards, shop and new powerups
+
+
+How it looks currently:
+![image](https://github.com/tanishisherewithhh/Parkour-libgdx/assets/120117618/fedebb83-d7a5-4129-afd2-1e8a0a4ae3e0)
